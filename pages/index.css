@@ -52,7 +52,7 @@
 
 @media (max-width: 1280px) {
   .photo-grid {
-    gap:14px;   
+    gap:14px;
     grid-template-columns: repeat( 4, 1fr); 
   }
 }
@@ -68,12 +68,13 @@
   }
 
   .photo-grid {
-    gap:14px;   
-    grid-template-columns: repeat(3, 1fr); 
+    gap:14px; 
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .page {
     padding: 0;
+    margin: 0 auto;
   }
 
   .header,.intro,.places,.photo-grid,.footer {
@@ -119,7 +120,7 @@
 
   .lead__subtitle{
     font-size: 16px;
-    line-height: 20px; 
+    line-height: 20px;
     padding-left: 16px;
     padding-right: 16px;
     margin-bottom: 40px;
@@ -135,12 +136,12 @@
   }
 
   .photo-grid {
-    gap:16px;   
+    gap: 16px;   
     grid-template-columns: repeat(2, 1fr); 
   }
 
   .places__list {
-    gap:72px;
+    gap: 72px;
   }
 
   .places__image {
@@ -186,8 +187,8 @@
     grid-template-columns: 1fr;
   }
   .photo-grid {
-    gap:16px;   
-    grid-template-columns: 1fr; 
+    gap:16px;
+    grid-template-columns: 1fr;
   }
 
   .intro,.photo-grid,.footer {
@@ -226,7 +227,7 @@
  }
  .cover__subtitle{
     font-size: 16px;
-    line-height: 20px;  
+    line-height: 20px;
     padding-left: 16px;
     padding-right: 16px;
     margin-bottom: 33px;

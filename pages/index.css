@@ -69,8 +69,8 @@
   }
 
   .photo-grid {
-    gap:14px;   
-    grid-template-columns: repeat(3, 1fr); 
+    gap:14px;
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .page {
@@ -121,7 +121,7 @@
 
   .lead__subtitle {
     font-size: 16px;
-    line-height: 20px;  
+    line-height: 20px;
     padding-left: 16px;
     padding-right: 16px;
     margin-bottom: 40px;
@@ -137,8 +137,8 @@
   }
 
   .photo-grid {
-    gap: 16px;   
-    grid-template-columns: repeat(2, 1fr); 
+    gap: 16px;
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .places__list {
@@ -191,8 +191,8 @@
     grid-template-columns: 1fr;
   }
   .photo-grid {
-    gap:16px;   
-    grid-template-columns: 1fr; 
+    gap:16px;
+    grid-template-columns: 1fr;
   }
 
   .intro,.photo-grid,.footer {

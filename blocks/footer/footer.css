@@ -1,0 +1,22 @@
+.footer {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 92px 48px 24px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+@media (max-width: 768px) {    
+  .footer {
+    padding: 84px 24px 24px;
+  }
+}
+
+@media (max-width: 568px) {
+  .footer {
+    flex-direction: column;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

@@ -31,4 +31,5 @@
   .photo-grid {
     grid-template-columns: 1fr;
     padding: 64px 16px 0;
+  }
 }

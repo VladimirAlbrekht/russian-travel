@@ -1,0 +1,21 @@
+.places__list {
+  font-family: 'Inter';
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex-direction: column;
+  gap: 80px;
+}
+
+@media (max-width: 767px) {    
+  .places__list {
+    gap: 72px;
+  }
+}
+
+@media (max-width: 568px) {
+  .places__list {
+    gap: 50px;
+  }
+}

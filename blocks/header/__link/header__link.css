@@ -9,6 +9,11 @@
   transition: all 0.5s step-start;
 }
 
+.header__link:hover {
+  opacity: 0.8;
+  transition: all 0.5s;
+}
+
 @media (max-width: 767px) {
   .header__link {
     font-size: 18px;

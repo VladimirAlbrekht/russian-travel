@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-[Место]((https://vladimiralbrekht.github.io/mesto/) "Вы только посмотрите!") 
+[https://vladimiralbrekht.github.io/mesto/]
 
 **Информация о ресурсе**
 

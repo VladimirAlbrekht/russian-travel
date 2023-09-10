@@ -22,5 +22,5 @@
 
 -----------
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/BCeFNwsVdQUpqMfWJEGlw7/Sprint-3_-Russia-_-desktop-%2B-mobile-(Copy)?type=design&node-id=28503%3A0&mode=design&t=U3Rf4BE0mwJs8iMr-1),
+* [Ссылка на макет в Figma](https://www.figma.com/file/BCeFNwsVdQUpqMfWJEGlw7/Sprint-3_-Russia-_-desktop-%2B-mobile-(Copy)?type=design&node-id=28503%3A0&mode=design&t=U3Rf4BE0mwJs8iMr-1)
 
